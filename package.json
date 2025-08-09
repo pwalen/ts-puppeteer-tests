@@ -1,0 +1,28 @@
+{
+  "name": "ts-puppeteer-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwalen/ts-puppeteer-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwalen/ts-puppeteer-tests/issues"
+  },
+  "homepage": "https://github.com/pwalen/ts-puppeteer-tests#readme",
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "puppeteer": "^24.16.0"
+  }
+}
